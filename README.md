@@ -1,7 +1,6 @@
 # PacketCloak
 
 [![Version](https://img.shields.io/badge/version-0.2.16-blue.svg)](CHANGELOG.md)
-[![Status](https://img.shields.io/badge/status-stable-green.svg)](CHANGELOG.md)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](LICENSE)
 [![Wireshark](https://img.shields.io/badge/Wireshark-3.0%2B-1679A7.svg)](https://www.wireshark.org/)
 [![Lua](https://img.shields.io/badge/Lua-5.1%2B-000080.svg)](https://www.lua.org/)
@@ -27,6 +26,9 @@ A Wireshark plugin for real-time anonymization and cloaking of sensitive packet 
 - 🚀 **Wireshark Integrated** - Pure Lua implementation running directly from Wireshark
 
 ## 📸 Screenshots
+
+![PacketReporter Screenshot](examples/Before_Claoking.png)
+![PacketReporter Screenshot](examples/After_Claoking.png)
 
 ### PacketCloak Menu
 
